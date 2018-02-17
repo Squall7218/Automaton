@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Automaton",
+  "name": "Automaton",
+  "description": "Automaton",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Squall"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
